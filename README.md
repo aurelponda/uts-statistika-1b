@@ -1,5 +1,7 @@
 # STATWISE — Statistika Deskriptif
 
+**Aplikasi langsung:** [Buka STATWISE](https://uts-statistika-1b-wbuyux4ti4zxbfchbgzgob.streamlit.app/)
+
 STATWISE adalah aplikasi Streamlit berbahasa Indonesia untuk mengeksplorasi data dan menghitung statistik deskriptif. Aplikasi menerima file Excel dan CSV, menampilkan pratinjau, membandingkan beberapa variabel numerik, membuat grafik, dan mengekspor ringkasan.
 
 ## Fitur
